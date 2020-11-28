@@ -68,3 +68,8 @@ DefaultResourceGroup-CUS          centralus      Succeeded
 ashutoshhclires                   centralus      Succeeded
 
 ```
+
+### a look to az command 
+
+<img src="azcli.png">
+
