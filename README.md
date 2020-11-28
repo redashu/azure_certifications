@@ -1,4 +1,5 @@
 # azure cli
+[![Python](https://img.shields.io/pypi/pyversions/azure-cli.svg?maxAge=2592000)](https://pypi.python.org/pypi/azure-cli)
 
 ## A way to manage azure resources in with these features
 
