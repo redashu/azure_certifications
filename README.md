@@ -13,7 +13,7 @@
 
 ## Installing azure cli
 
-![Installation](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
+![Installation] (https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 
 ## Installing on MAc
 
