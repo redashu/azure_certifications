@@ -9,5 +9,19 @@
 
 [AZ900](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/#certification-exam-disclaimers)
 
+### AZ-900 Certification Summary 
+
+<img src="az9001.png">
+
+### Skill scale for this certification 
+
+<img src="az900-scale.png">
+
+## Free Online study guide with scale 
+
+[az900_docs](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+
+
+
 
 
