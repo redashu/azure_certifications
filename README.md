@@ -12,7 +12,7 @@
 
 ['docs'] ('https://docs.microsoft.com/en-us/learn/azure/')
 
-## Exam Passing score machanism 
+## Exam Passing score mechanism 
 
 [Score_understanding](https://docs.microsoft.com/en-us/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams)
 
