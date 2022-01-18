@@ -22,6 +22,18 @@
 [az900_docs](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
 
 
+## Cloud Concepts 
+
+### Agility 👍  -- To allocate and Deallocate as much as possible 
+
+<img src="agility.png">
+
+### HA -- COncept 
+
+<img src="az900-ha.png">
+
+
+
 
 
 
