@@ -80,6 +80,26 @@
 
 <img src="geo.png">
 
+## Resources
+
+### Resources 
+
+<img src="az900-res1.png">
+
+### each resources are stored in JSON template -- 
+
+<img src="az900-resjson.png">
+
+### Grouping resource for better management  / same kind resource grouping / for specific billing and monitoring  / specific location 
+
+### we can also assign roles and permission to resources group 
+
+<img src="az900-resgroup.png">
+
+
+
+
+
 
 
 
